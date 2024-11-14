@@ -1,4 +1,4 @@
-name: build
+name: JUnit Test Suite
 on:
   push:
     branches: [ "main" ]
